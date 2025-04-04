@@ -1,0 +1,11 @@
+AreaCode,State,Market,MarketSize
+203,Connecticut,East,"Small Market"
+206,Washington,West,"Small Market"
+209,California,West,"Major Market"
+210,Texas,South,"Major Market"
+212,"New York",East,"Major Market"
+303,Colorado,Central,"Major Market"
+719,Colorado,Central,"Major Market"
+720,Colorado,Central,"Major Market"
+970,Colorado,Central,"Major Market"
+860,Connecticut,East,"Small Market"
